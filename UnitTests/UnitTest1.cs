@@ -14,5 +14,7 @@ public class Tests
     public void Test1(string input, string expected)
     {
         var reversed = SentenceReverser.ReverseSentence(input);
+        
+        // pseudocode your way through how you would reverse the input
     }
 }
